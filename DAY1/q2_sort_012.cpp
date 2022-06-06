@@ -2,6 +2,11 @@
  * https://leetcode.com/problems/sort-colors/
  * https://www.codingninjas.com/codestudio/problems/631055?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
  * */
+
+#include <bits/stdc++.h> 
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     void sortColors(vector<int>& a) {

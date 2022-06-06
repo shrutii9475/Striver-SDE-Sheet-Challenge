@@ -2,7 +2,9 @@
  * https://www.codingninjas.com/codestudio/problems/893405?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
  ***********/
 
-#include <bits/stdc++.h>
+#include <bits/stdc++.h> 
+#include<vector>
+using namespace std;
 
 int maximumProfit(vector<int> &pr){
     

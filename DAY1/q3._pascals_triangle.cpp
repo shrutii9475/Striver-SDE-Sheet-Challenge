@@ -2,6 +2,10 @@
  * https://www.codingninjas.com/codestudio/problems/1089580?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website
  * https://leetcode.com/problems/pascals-triangle/
  * ******/
+#include <bits/stdc++.h> 
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> generate(int n) {
